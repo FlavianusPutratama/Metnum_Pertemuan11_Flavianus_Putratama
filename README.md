@@ -1,0 +1,2 @@
+# Metnum_Pertemuan11_Flavianus_Putratama
+Mengimplementasikan Metode Regresi Linear dan Regresi Eksponensial pada program menggunakan bahasa permrograman python
